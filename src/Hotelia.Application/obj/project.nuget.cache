@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XBDygDZ9MQc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\odmorales\\source\\repos\\HotelIAProject\\src\\Hotelia.Application\\Hotelia.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\odmorales\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

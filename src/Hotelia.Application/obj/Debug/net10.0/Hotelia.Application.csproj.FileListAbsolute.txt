@@ -1,0 +1,16 @@
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\bin\Debug\net10.0\Hotelia.Application.deps.json
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\bin\Debug\net10.0\Hotelia.Application.dll
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\bin\Debug\net10.0\Hotelia.Application.pdb
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\bin\Debug\net10.0\Hotelia.Domain.dll
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\bin\Debug\net10.0\Hotelia.Domain.pdb
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\obj\Debug\net10.0\Hotelia.Application.csproj.AssemblyReference.cache
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\obj\Debug\net10.0\Hotelia.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\obj\Debug\net10.0\Hotelia.Application.AssemblyInfoInputs.cache
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\obj\Debug\net10.0\Hotelia.Application.AssemblyInfo.cs
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\obj\Debug\net10.0\Hotelia.Application.csproj.CoreCompileInputs.cache
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\obj\Debug\net10.0\Hotelia.Application.sourcelink.json
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\obj\Debug\net10.0\Hotelia..4438E144.Up2Date
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\obj\Debug\net10.0\Hotelia.Application.dll
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\obj\Debug\net10.0\refint\Hotelia.Application.dll
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\obj\Debug\net10.0\Hotelia.Application.pdb
+C:\Users\odmorales\source\repos\HotelIAProject\src\Hotelia.Application\obj\Debug\net10.0\ref\Hotelia.Application.dll

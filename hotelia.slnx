@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Hotelia.Api/Hotelia.Api.csproj" />
+    <Project Path="src/Hotelia.Application/Hotelia.Application.csproj" />
+    <Project Path="src/Hotelia.Domain/Hotelia.Domain.csproj" />
+    <Project Path="src/Hotelia.Infrastructure/Hotelia.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Hotelia.IntegrationTests/Hotelia.IntegrationTests.csproj" />
+    <Project Path="tests/Hotelia.UnitTests/Hotelia.UnitTests.csproj" />
+  </Folder>
+</Solution>

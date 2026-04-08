@@ -1,0 +1,6 @@
+@Hotelia.Api_HostAddress = http://localhost:5063
+
+GET {{Hotelia.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
